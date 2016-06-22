@@ -65,7 +65,7 @@
       - [ ] _tratamiento de imagenes_
 
 ## __3. PARTE TRES (_diseño_)__
-  ### `INDEX` *Se dara el efecto parallas*
+  ### __`INDEX` *Se dara el efecto parallas*__
   - [ ] DISEÑO DE PAGE HOME
     - [ ] git `(0)`
       - [ ] crear `issues` del diseño de page home
