@@ -85,19 +85,19 @@
       - [ ] transcribir `body`
       - [ ] transcribir `footer`
 
-  ### `VERIFICACION`
+### __`VERIFICACION`__
   - [ ] DISEÑO DE PAGE 2
     - [ ] `(0)`
     - [ ] `(1)`
     - [ ] `(2)`
 
-  ### `ACTUALIZACION DE DATOS`
+### __`ACTUALIZACION DE DATOS`__
   - [ ] DISEÑO DE PAGE 3
   - [ ] `(0)`
   - [ ] `(1)`
   - [ ] `(2)`
 
-  ### `CONTACTOS`
+### __`CONTACTOS`__
   - [ ] DISEÑO DE PAGE 4
   - [ ] `(0)`
   - [ ] `(1)`
