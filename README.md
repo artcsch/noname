@@ -17,5 +17,6 @@ El alojamiento sera por `AWS` por el escalamiento que pueda tener la herramienta
 
 En la primera parte del proyecto sera de acceso libre para corregir las diferentes situaciones, errores. Una vez terminada sera acceso de paga que sera notificado previamente.
 
-Desarrollador
+
+_Desarrollador_
 ### ARTCSCH
