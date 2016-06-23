@@ -10,7 +10,7 @@
     - [x] gimp (_Editor de imagen_)
 
   - [ ] Configuraciones de herramientas
-    - [x] git
+    - [ ] git
       - [x] clonar repositorio de github "_noname_"
       - [x] configurar `nombre`, `email`, `color` y aspecto de git por terminal
       - [ ] crear `issues` de los tiempos para las tareas de configuracion de la **_parte uno_** de la planificacion
