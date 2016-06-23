@@ -11,9 +11,9 @@ Modulos de la herramienta.
  2. `Zona de actualizacion de datos.`
  3. `Zona de contactos.`
 
-Es un proyecto **beta**, despues de los respectivos correctivos se dara paso a la primer versión de la herramienta.
+> Es un proyecto **beta**, despues de los respectivos correctivos se dara paso a la primer versión de la herramienta.
 
-El alojamiento sera por `AWS` por el escalamiento que pueda tener la herramienta y por el numero de usuarios que la utilizen
+> El alojamiento sera por `AWS` por el escalamiento que pueda tener la herramienta y por el numero de usuarios que la utilizen
 
 En la primera parte del proyecto sera de acceso libre para corregir las diferentes situaciones, errores. Una vez terminada sera acceso de paga que sera notificado previamente.
 
