@@ -1,13 +1,13 @@
 # `FRONTED`
 ## __1. Parte uno__
 
-  - [ ] Instalacion de herramientas para el desarrollo
-    - [ ] git & github(_Gestor de versiones y plataforma de gestion_ )
-    - [ ] nodejs (_instalaremos los diferentes plugins para el automatización de tareas y freamworks_)
-    - [ ] gulp (_vamos automatizar las mayores tareas del desarrollo_)
-    - [ ] atom (_editor de texto_)
-    - [ ] chrome (_navegador de preferencia_)
-    - [ ] gim (_Editor de imagen_)
+  - [x] Instalacion de herramientas para el desarrollo
+    - [x] git & github(_Gestor de versiones y plataforma de gestion_ )
+    - [x] nodejs (_instalaremos los diferentes plugins para el automatización de tareas y freamworks_)
+    - [x] gulp (_vamos automatizar las mayores tareas del desarrollo_)
+    - [x] atom (_editor de texto_)
+    - [x] chrome (_navegador de preferencia_)
+    - [x] gimp (_Editor de imagen_)
 
   - [ ] Configuraciones de herramientas
     - [ ] git
@@ -33,7 +33,7 @@
         - [ ] jsx (`reactjs`)
         - [ ] sass (`precopilador`)
     - [ ] chrome
-    - [ ] gim
+    - [ ] gimp
       - [ ] produccion para el diseño y todas paletas en orden
 
 ## __2. PARTE DOS__
@@ -73,7 +73,7 @@
         - [ ] `head`
         - [ ] `body`
         - [ ] `footer`
-    - [ ] gim `(1)`
+    - [ ] gimp `(1)`
       - [ ] diseñar `maquetado` _de pagina_
       - [ ] diseñar `head`
       - [ ] diseñar `body`
