@@ -13,28 +13,28 @@
     - [ ] git
       - [x] clonar repositorio de github "_noname_"
       - [x] configurar `nombre`, `email`, `color` y aspecto de git por terminal
-      - [ ] crear `issues` de los tiempos para las tareas de configuracion de la **_parte uno_** de la planificacion
+      - [x] crear `issues` de los tiempos para las tareas de configuracion de la **_parte uno_** de la planificacion
     - [ ] nodejs
-      - [ ] ultima `version`
-      - [ ] npm ultima `version`
-      - [ ] instalar la carpeta de trabajo `node_package`
-      - [ ] crear `package.json`
-    - [ ] gulp
-      - [ ] instalar en global
-      - [ ] instalar en carpeta de proyecto
-      - [ ] crear gulpfile
-    - [ ] atom
-      - [ ] configurar thema `seti`
-      - [ ] instalar plugins de sintaxis
-        - [ ] json
-        - [ ] html
-        - [ ] css
-        - [ ] javascrips
-        - [ ] jsx (`reactjs`)
-        - [ ] sass (`precopilador`)
-    - [ ] chrome
-    - [ ] gimp
-      - [ ] produccion para el diseño y todas paletas en orden
+      - [x] ultima `version`
+      - [x] npm ultima `version`
+      - [x] instalar la carpeta de trabajo `node_modules`
+      - [x] crear `package.json`
+    - [x] gulp
+      - [x] instalar en global
+      - [x] instalar en carpeta de proyecto
+      - [x] crear gulpfile
+    - [x] atom
+      - [x] configurar thema `seti`
+      - [x] instalar plugins de sintaxis
+        - [x] json
+        - [x] html
+        - [x] css
+        - [x] javascrips
+        - [x] jsx (`reactjs`)
+        - [x] sass (`precopilador`)
+    - [x] chrome
+    - [x] gimp
+      - [x] produccion para el diseño y todas paletas en orden
 
 ## __2. PARTE DOS__
 
