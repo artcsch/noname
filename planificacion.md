@@ -9,12 +9,12 @@
     - [x] chrome (_navegador de preferencia_)
     - [x] gimp (_Editor de imagen_)
 
-  - [ ] Configuraciones de herramientas
-    - [ ] git
+  - [x] Configuraciones de herramientas
+    - [x] git
       - [x] clonar repositorio de github "_noname_"
       - [x] configurar `nombre`, `email`, `color` y aspecto de git por terminal
       - [x] crear `issues` de los tiempos para las tareas de configuracion de la **_parte uno_** de la planificacion
-    - [ ] nodejs
+    - [x] nodejs
       - [x] ultima `version`
       - [x] npm ultima `version`
       - [x] instalar la carpeta de trabajo `node_modules`
@@ -73,11 +73,11 @@
         - [ ] `head`
         - [ ] `body`
         - [ ] `footer`
-    - [ ] gimp `(1)`
-      - [ ] diseñar `maquetado` _de pagina_
-      - [ ] diseñar `head`
-      - [ ] diseñar `body`
-      - [ ] diseñar `footer`
+    - [x] gimp `(1)`
+      - [x] diseñar `maquetado` _de pagina_
+      - [x] diseñar `head`
+      - [x] diseñar `body`
+      - [x] diseñar `footer`
   - [ ] TRANSCRIBIR DISEÑO
     - [ ] atom `(2)`
       - [ ] transcribir `maquetado`
