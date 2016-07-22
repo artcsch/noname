@@ -1,5 +1,5 @@
 # `nomame`
-Proyecto para realizar la **_Aplicaon para relaizar la declaraciones de iva mensual y trimestral online_**
+Proyecto para realizar la **_Aplicación para realizar la declaraciones de iva mensual y trimestral online_**
 
 Hola mis amigos el proyecto sera para ayudar a un grupo de de clientes que desean tener un `herramienta` para poder realizar la delcaraciones del iva a los diferentes clientes que se acercan a solicitar uno. Las instituciones que desean, tener esta herremienta de ayuda.
 
