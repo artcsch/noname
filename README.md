@@ -1,7 +1,7 @@
 # `nomame`
-Proyecto para realizar la **_verificación de datos de personas que no tengas deudas con almacenes_**
+Proyecto para realizar la **_Aplicaon para relaizar la declaraciones de iva mensual y trimestral online_**
 
-Hola mis amigos el proyecto sera para ayudar a un grupo de de clientes que desean tener un `herramienta` para poder dar un credito a los diferentes clientes que se acercan a solicitar uno. Las instituciones que desean, tener esta herremienta de ayuda.
+Hola mis amigos el proyecto sera para ayudar a un grupo de de clientes que desean tener un `herramienta` para poder realizar la delcaraciones del iva a los diferentes clientes que se acercan a solicitar uno. Las instituciones que desean, tener esta herremienta de ayuda.
 
 **Sera de acceso restringido**, se podra ingresar por medio de una **_clave y contraseña_**, a los diferentes modulos de la herramienta. El **acceso se dara una vez verificado el usuario y si cumple los requisitos previos para el acceso.**
 
