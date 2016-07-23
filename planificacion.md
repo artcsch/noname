@@ -38,8 +38,8 @@
 
 ## __2. PARTE DOS__
 
-  - [ ] git
-    - [ ] crear `issues` de la **_parte dos_**
+  - [x] git
+    - [x] crear `issues` de la **_parte dos_**
   - [ ] atom
     - [ ] Crear arbol de archivos del proyecto
       - [ ] desarrollo
