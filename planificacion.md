@@ -40,24 +40,24 @@
 
   - [x] git
     - [x] crear `issues` de la **_parte dos_**
-  - [ ] atom
-    - [ ] Crear arbol de archivos del proyecto
-      - [ ] desarrollo
+  - [x] atom
+    - [x] Crear arbol de archivos del proyecto
+      - [x] desarrollo
         * `html`
         * `js`
         * `css`
-      - [ ] produccion
+      - [x] produccion
         * `html`
   - [ ] gulp
     - [ ] instalar plugins y freamworks:
       - [ ] `reactjs`
-      - [ ] `jquery`
+      - [x] `jquery`
       - [ ] `normalize`
-      - [ ] `materilize`
-      - [ ] `sass`
+      - [x] `materilize`
+      - [x] `sass`
       - [ ] `iconos`
     - [ ] instalar plugins para automatizacion
-      - [ ] `web-server`
+      - [x] `web-server`
       - [ ] `javascript` y `babel`
       - [ ] `css`
       - [ ] `jsx`
@@ -66,24 +66,24 @@
 
 ## __3. PARTE TRES (_diseño_)__
 ### __`INDEX` *Se dara el efecto parallas*__
-  - [ ] DISEÑO DE PAGE HOME
-    - [ ] git `(0)`
-      - [ ] crear `issues` del diseño de page home
-        - [ ] `maquetado`
-        - [ ] `head`
-        - [ ] `body`
-        - [ ] `footer`
+  - [x] DISEÑO DE PAGE HOME
+    - [x] git `(0)`
+      - [x] crear `issues` del diseño de page home
+        - [x] `maquetado`
+        - [x] `head`
+        - [x] `body`
+        - [x] `footer`
     - [x] gimp `(1)`
       - [x] diseñar `maquetado` _de pagina_
       - [x] diseñar `head`
       - [x] diseñar `body`
       - [x] diseñar `footer`
-  - [ ] TRANSCRIBIR DISEÑO
-    - [ ] atom `(2)`
-      - [ ] transcribir `maquetado`
-      - [ ] transcribir `head`
-      - [ ] transcribir `body`
-      - [ ] transcribir `footer`
+  - [x] TRANSCRIBIR DISEÑO
+    - [x] atom `(2)`
+      - [x] transcribir `maquetado`
+      - [x] transcribir `head`
+      - [x] transcribir `body`
+      - [x] transcribir `footer`
 
 ### __`VERIFICACION`__
   - [ ] DISEÑO DE PAGE 2
