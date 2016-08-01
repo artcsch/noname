@@ -41,5 +41,5 @@ gulp.task('watch', function(){
   gulp.watch(config.styles.watch, ['sass']);
 });
 
-gulp.task('build', ['sass','copy']);
-gulp.task('default', ['server','watch']);
+gulp.task('build', ['sass'])
+gulp.task('default', ['server','copy','watch']);
