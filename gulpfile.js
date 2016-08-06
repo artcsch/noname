@@ -1,6 +1,10 @@
 var gulp = require('gulp');
 var webserver = require('gulp-webserver');
 var sass = require('gulp-sass');
+var browserify = require('browserify');
+var source = require('vinyl-source-stream');
+var buffer = require('vinyl-buffer');
+var uglify = require('gulp-uglify');
 
 var config ={
   nodeDir: './node_modules',
@@ -36,10 +40,20 @@ gulp.task('sass', function(){
     .pipe(sass().on('error', sass.logError))
     .pipe(gulp.dest(config.styles.output));
 });
+gulp.task('js', ()=>{
+  return browserify(config.js.main)
+    .bundle()
+    .pipe(source('bundle.js'))
+    .pipe(buffer())
+    .pipe(uglify())
+    .pipe(dest(config.js.output));
+});
 gulp.task('watch', function(){
-  gulp.watch(config.html.watch);
+  gulp.watch(config.js.watch, ['js']);
   gulp.watch(config.styles.watch, ['sass']);
+  gulp.watch(config.html.watch);
+
 });
 
-gulp.task('build', ['sass'])
+gulp.task('build', ['sass', 'js']);
 gulp.task('default', ['server','copy','watch']);
