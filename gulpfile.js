@@ -3,7 +3,6 @@ var postcss = require('gulp-postcss');
 var autoprefixer = require('autoprefixer');
 var cssnano = require('gulp-cssnano');
 var browserSync = require('browser-sync').create()
-var webserver = require('gulp-webserver');
 var rename = require('gulp-rename');
 var sass = require('gulp-sass');
 var babel = require('babelify');
