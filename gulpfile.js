@@ -28,6 +28,8 @@ var config ={
   scripts:{
     main:'./build/js/main.js',
     watch:'./build/js/**/*.js',
+    jsx_main:'./build/jsx/components.jsx',
+    jsx_watch:'./build/jsx/**/*.jsx',
   }
 };
 
@@ -62,6 +64,18 @@ gulp.task('assets', function(){
   gulp.src(config.assets.main)
     .pipe(gulp.dest(config.html.watch + 'img'));
 });
+gulp.task('transform', function(){
+  browserify({
+    entries: (config.scripts.jsx_main),
+    extensions: ['.jsx'],
+    debug: true
+  })
+  .transform(babel)
+  .bundle()
+  .pipe(source('bundle.js'))
+  .pipe(rename('components.js'))
+  .pipe(gulp.dest('./build/js/'));
+});
 gulp.task('scripts', function(){
   browserify(config.scripts.main)
     .transform(babel)
@@ -70,15 +84,16 @@ gulp.task('scripts', function(){
     .pipe(rename('app.js'))
     .pipe(gulp.dest(config.html.watch + 'js'));
 });
- gulp.task('js-watch', ['scripts'], function(done){
+ gulp.task('js-watch', ['scripts','transform'], function(done){
    browserSync.reload();
    done();
  });
 gulp.task('watch', function(){
   gulp.watch(config.pug.watch, ['pug']);
   gulp.watch(config.styles.watch, ['css']);
+  gulp.watch(config.scripts.jsx_watch, ['transform']);
   gulp.watch(config.scripts.watch, ['scripts', 'js-watch']);
 });
 
-gulp.task('build', ['assets','css','scripts']);
+gulp.task('build', ['assets','css','transform','scripts']);
 gulp.task('default', ['server','watch','build']);
